@@ -1,8 +1,8 @@
 # tiny-chess-01
 
 [![make.fun · tiny-chess-01](https://make.fun/badge/tiny-chess-01.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
-[![rank](https://make.fun/badge/tiny-chess-01/OWNER/REPO/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
-[![reward](https://make.fun/badge/tiny-chess-01/OWNER/REPO/reward.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+[![rank](https://make.fun/badge/tiny-chess-01/1372755394-ai/tiny-chess-01/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+[![reward](https://make.fun/badge/tiny-chess-01/1372755394-ai/tiny-chess-01/reward.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 
 A tiny chess engine in 4 KB of Python: alpha-beta search with quiescence (including check evasions), a transposition table, MVV-LVA move ordering, iterative deepening under a fixed node budget, and a material + piece-square + pawn-shield evaluation. It plays the house gauntlet through the make.fun env.
 
